@@ -8,7 +8,10 @@
 6. **CI, Continuous Integration**: Configuring – infrastructure configuration and management, infrastructure as code tools.
 7. **MON**: Monitoring – applications performance monitoring, end-user experience.
 
+Keywords
+
 - MS: Microservice
+- CLD: CLoud
 
 Resources
 
