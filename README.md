@@ -10,8 +10,9 @@
 
 Keywords
 
-- MS: Microservice
 - CLD: CLoud
+- MS: Microservice
+- PKG: Package management
 
 Resources
 
