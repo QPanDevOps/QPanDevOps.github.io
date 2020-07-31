@@ -7,3 +7,5 @@
 5. **CD, Continuous Deployment**: Releasing – change management, release approvals, release automation.
 6. **CI, Continuous Integration**: Configuring – infrastructure configuration and management, infrastructure as code tools.
 7. **MON**: Monitoring – applications performance monitoring, end-user experience.
+
+- MS: Microservice
