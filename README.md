@@ -1,6 +1,6 @@
 # QPanDevOps.github.io
 
-1. **VCS**: Coding – code development and review, source code management tools, code merging.
+1. **VCS, DOC**: Coding – code development and review, source code management tools, code merging.
 2. **BLD**: Building – continuous integration tools, build status.
 3. **TST**: Testing – continuous testing tools that provide quick and timely feedback on business risks.
 4. **Packaging** – artifact repository, application pre-deployment staging.
