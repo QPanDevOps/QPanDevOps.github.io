@@ -17,3 +17,4 @@ Keywords
 Resources
 
 - docker-library, official images [Github](https://github.com/docker-library)
+- [Awesome](https://github.com/sindresorhus/awesome)
